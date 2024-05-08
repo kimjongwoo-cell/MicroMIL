@@ -17,7 +17,7 @@ source activate py39
 conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 ````
 
-# Execute MicroMIL on Filmtrust dataset
+# Execute MicroMIL on dataset
 ````
 python main.py
 ````
