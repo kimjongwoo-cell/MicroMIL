@@ -1,4 +1,4 @@
-# MicroMIL: Advancing Cancer Diagnosis with Spatially Enhanced Multiple Instance Learning in Microscopy Imaging
+# Leveraging Multi-facet Paths for Heterogeneous Graph Representation Learning (MF2Vec)
 
 
 
