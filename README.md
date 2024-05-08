@@ -1,4 +1,4 @@
-# Leveraging Multi-facet Paths for Heterogeneous Graph Representation Learning (MF2Vec)
+# MicroMIL: Advancing Cancer Diagnosis with Spatially Enhanced Multiple Instance Learning in Microscopy Imaging
 
 
 
@@ -17,7 +17,7 @@ source activate py39
 conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 ````
 
-# Execute MF2vec on Filmtrust dataset
+# Execute MicroMIL on Filmtrust dataset
 ````
 python main.py
 ````
