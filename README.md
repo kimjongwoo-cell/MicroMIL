@@ -55,7 +55,7 @@ python main.py
   - **Description**: Device (e.g., 'cuda:0', 'cpu') on which to run the model.
 
 - `--shuffle`: Shuffle
-  - **Description**: Flag indicating whether to shuffle the data during training.
+  - **Description**: whether to shuffle the data during training.
 
 - `--hidden_dim`: Hidden dimension
   - **Description**: Dimensionality of the hidden layers in the neural network.
