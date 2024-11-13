@@ -1,6 +1,4 @@
-# MicroMIL: Advancing Cancer Diagnosis with Spatially Enhanced Multiple Instance Learning in Microscopy Imaging
-
-
+#  MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient Diagnosis Using Microscopic Images
 
 ### Overview
 
